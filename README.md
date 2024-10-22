@@ -4,6 +4,6 @@ The csv file contains the dataset, cleaned from a source found [here](https://ww
 <br>
 The R file contains all of the code used for the project, including exploratory data analysis, modelling, and testing. <br>
 <br>
-The docx file goes further into detail regarding the objective, design, models, and tests used in determining the results. <br>
+The pdf file goes further into detail regarding the objective, design, models, and tests used in determining the results. <br>
 <br>
 In short, testing revealed that individuals that are older, have more glucose in their bloodstream, or a history with hypertension or heart disease are more likely to have had a stroke.
