@@ -1,1 +1,1 @@
-Hi
+This project is meant to determine if there is an association between some of a person's physical characterstics an whether they've had a stroke. The csv file contains the dataset, cleaned from a source found [here](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/data).
